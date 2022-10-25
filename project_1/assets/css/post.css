@@ -1,0 +1,31 @@
+div.post {
+    width: 400px;
+    background-color: #f8f8f8;
+    padding: 15px;
+    margin: 15px auto;
+}
+
+div.post > h2 {
+    text-transform: capitalize;
+    text-align: center;
+}
+
+div.post > p {
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    color: #454545;
+}
+
+div.post > div.image-wrapper {
+    text-align: center;
+}
+
+div.post > div.image-wrapper > img {
+    width: 300px;
+    height: 300px;
+}
+
+div.post > a {
+
+}
